@@ -1,8 +1,7 @@
 # ML Targeted Marketing and Decile Analysis
  Targeted Marketing and Decile Analysis using ML, Decile Charts, Lift Charts and Gain Charts
 
-<br><br>
-![image.png](image/Fig2-lost-art-decile-analysis.jpg)<br><br>
+<br><br>![image.png](image/Fig2-lost-art-decile-analysis.jpg)<br><br>
 
 The project aims to use machine learning to improve targeted marketing efforts and increase acceptance rate of upcoming products and services. The goal is to identify and target the most likely individuals to be interested in the products being offered, which will reduce customer acquisition costs and increase overall acceptance rate.
 
